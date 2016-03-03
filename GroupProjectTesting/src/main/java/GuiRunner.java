@@ -1,4 +1,4 @@
-package groupProject;
+package main.java;
 
 import javax.swing.JFrame;
 
