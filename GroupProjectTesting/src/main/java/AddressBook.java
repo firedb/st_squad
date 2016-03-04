@@ -1,11 +1,9 @@
-package main.java;
-
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class AddressBook {
+class AddressBook {
 	private String name;
 	private ArrayList<Person> addresses;
 	
